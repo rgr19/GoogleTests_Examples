@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Tests_test_gtest.dir/test_gtest.cpp.o  -o ../../bin/test/debug/Tests_test_gtest ../lib/libgtestd.a ../lib/libgmockd.a ../lib/libgtest_maind.a ../lib/libgtestd.a -lpthread 
